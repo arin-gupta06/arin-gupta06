@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Arin Gupta 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;System+Thinker;AI+System+Explorer;Designing+Meaningful+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;System+Thinker;AI+System+Explorer;Designing+Deterministic+Systems" />
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@
 
 ## 🧠 System.out.println("Who Am I");
 
-I don’t just write code — I design **systems that think, behave, and evolve**.
+I don’t just write code — I design **systems that behave predictably, scale intentionally, and remain under control**.
 
-* 🧩 I break problems into **flows, states, and interactions**
-* 🎯 I focus on **real-world usability, not just features**
-* 🤖 I explore **AI as a system**, not just an API
-* ⚡ I enjoy building **interactive and meaningful experiences**
+* 🧩 I think in **flows, constraints, and execution paths**
+* 🎯 I prioritize **clarity over complexity**
+* 🤖 I explore **AI as a controlled system**, not blind automation
+* ⚡ I build tools that **reduce cognitive load, not increase it**
 
 ---
 
@@ -39,13 +39,14 @@ I don’t just write code — I design **systems that think, behave, and evolve*
 <tr>
 <td width="33%">
 
-### 🧠 Mantessa
+### 🧰 PDTK
 
-> A unified study workspace
+> Personal Development Toolkit
 
-* Notes + Tasks + Focus
-* Reducing tool fragmentation
-* Designed for real student workflows
+* CLI-first developer system
+* Deterministic execution model
+* AI-assisted brainstorming (local LLM)
+* Built for **focus, control, and finishability**
 
 </td>
 
@@ -53,7 +54,7 @@ I don’t just write code — I design **systems that think, behave, and evolve*
 
 ### ⚔️ Algo Fight
 
-> Competitive coding, reimagined
+> Competitive coding platform
 
 * Real-time interaction
 * Gamified learning
@@ -68,7 +69,7 @@ I don’t just write code — I design **systems that think, behave, and evolve*
 > Secure AI-driven environment
 
 * Hackathon-built system
-* Focus on integrity & monitoring
+* Monitoring + integrity focus
 * Privacy-aware design
 
 </td>
@@ -77,34 +78,94 @@ I don’t just write code — I design **systems that think, behave, and evolve*
 
 ---
 
+## 🧰 Deep Dive: PDTK
+
+> *“A finished, boring tool beats a brilliant unfinished one.”*
+
+PDTK is a **CLI system designed to reduce developer cognitive load** through **deterministic, whitelisted execution**.
+
+### 🎯 Core Principles
+
+| Principle                      | Meaning                                  |
+| ------------------------------ | ---------------------------------------- |
+| Human-in-control               | Executes only developer-approved actions |
+| Deterministic execution        | No AI-generated shell commands           |
+| Finishability over flexibility | Fixed features per version               |
+| CLI-first                      | No UI, no background services            |
+
+---
+
+### ⚙️ What Makes It Different
+
+* 🔒 **Whitelisted execution only** — zero arbitrary commands
+* 🧠 **Local AI brainstorming (Mistral via Ollama)**
+* ⚡ **No cloud dependency, no latency overhead**
+* 🧩 **Structured thinking environment, not chatbot noise**
+* 🚫 **Anti-overthinking system built-in**
+
+---
+
+### 💻 Example Usage
+
+```bash id="r9k2x1"
+# Activate PDTK
+pdtk
+
+# Verify identity
+pdtk verify
+
+# Start AI brainstorming
+pdtk brainstorm
+
+# Resume session
+pdtk brainstorm load <id>
+```
+
+---
+
+### 🧠 Brainstorm System
+
+A **3-layer thinking pipeline**:
+
+```txt id="c82lq9"
+Slash Command → Intent Detection → Structured AI Response
+```
+
+Key capabilities:
+
+* Generates **2 solution paths** (prevents tunnel vision)
+* Tracks decisions with **session persistence**
+* Produces **structured reports**
+* Limits overthinking with **controlled expansion**
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,git,github" />
 </p>
 
 <p align="center">
-  <i>JavaScript • TypeScript • React • Node.js • Express • MongoDB • Git</i>
+  <i>JavaScript • TypeScript • Node.js • React • Express • MongoDB</i>
 </p>
 
 ---
 
 ## 🧭 How I Think
 
-```txt
-Problem → Breakdown → System → Interaction → Iterate → Refine
+```txt id="q7m1zp"
+Problem → Constraints → System → Execution → Feedback → Refine
 ```
-
-I approach development like designing a system, not assembling features.
 
 ---
 
 ## 🌱 Currently Evolving
 
 * Backend architecture & logging systems
-* Scalable system design
-* AI behavior & responsible systems
-* Real-time systems & interactions
+* Deterministic system design
+* AI behavior & control systems
+* Real-time interaction systems
 
 ---
 
@@ -123,27 +184,25 @@ I approach development like designing a system, not assembling features.
 
 ## 🧪 Experimental Zone
 
-I like building things that go beyond typical apps:
-
 * 🎮 Interactive learning systems
 * 🤖 AI behavior modeling
-* 🧠 User-guided interfaces (like assistant-driven UI 👀)
-* ⚡ Real-time feedback systems
+* 🧠 Developer productivity systems
+* ⚡ Real-time feedback environments
 
 ---
 
 ## 🎯 Vision
 
-* Build **AI systems that are responsible, scalable, and trustworthy**
-* Create **products that actually solve user problems**
-* Become a developer who **thinks in systems, not screens**
+* Build **AI systems that are controlled, explainable, and trustworthy**
+* Create tools that **reduce mental overhead for developers**
+* Become a developer who **designs systems, not just interfaces**
 
 ---
 
 ## 🧩 Fun Element
 
 <p align="center">
-  <i>Click the imaginary stickman... he's probably watching your cursor 👀</i>
+  <i>There’s a stickman somewhere here… waiting to guide you 👀</i>
 </p>
 
 ---
@@ -157,12 +216,4 @@ I like building things that go beyond typical apps:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arin-gupta06&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-<p align="center">
-  <b>"Don't just build apps. Build systems that make sense."</b>
-</p>
+<p align="cent
