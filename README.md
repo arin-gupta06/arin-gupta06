@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Arin Gupta 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;System+Thinker;AI+System+Explorer;Designing+Deterministic+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;System+Thinker;AI+System+Explorer;Backend+Learner;Builder+of+CLI+Tools" />
 </p>
 
 <p align="center">
-  <b>B.Tech @ MITS Gwalior</b> &nbsp;|&nbsp; Problem-First Mindset &nbsp;|&nbsp; Systems > Features
+  <b>B.Tech @ MITS Gwalior</b> &nbsp;|&nbsp; Problem-First Mindset &nbsp;|&nbsp; Systems &gt; Features
 </p>
 
 <p align="center">
@@ -22,18 +22,27 @@
 
 ---
 
-## 🧠 System.out.println("Who Am I");
+## 🧠 System.out.println("How I build")
 
-I don’t just write code — I design **systems that behave predictably, scale intentionally, and remain under control**.
+I don’t just write code — I design **systems that behave predictably**, scale intentionally, and stay under control.
 
-* 🧩 I think in **flows, constraints, and execution paths**
-* 🎯 I prioritize **clarity over complexity**
-* 🤖 I explore **AI as a controlled system**, not blind automation
-* ⚡ I build tools that **reduce cognitive load, not increase it**
+- 🧩 I think in **flows, constraints, and execution paths**
+- 🎯 I pick **clarity over cleverness**
+- 🤖 I explore **AI as a controlled system** (local-first, deterministic where it matters)
+- ⚡ I build tools that **reduce cognitive load** and help me ship
 
 ---
 
-## 🚀 Current Build Zone
+## 🔥 What I’m focusing on (2026)
+
+- Backend architecture, logging, and reliability fundamentals
+- Real-time systems (WebSockets, event flows)
+- Deterministic tooling (CLI-first workflows)
+- AI + systems: governed reasoning, safe automation, explainability
+
+---
+
+## 🧰 Build Zone (projects)
 
 <table>
 <tr>
@@ -41,36 +50,35 @@ I don’t just write code — I design **systems that behave predictably, scale 
 
 ### 🧰 PDTK
 
-> Personal Development Toolkit
+> Personal Development ToolKit (CLI)
 
-* CLI-first developer system
-* Deterministic execution model
-* AI-assisted brainstorming (local LLM)
-* Built for **focus, control, and finishability**
-
-</td>
-
-<td width="33%">
-
-### ⚔️ Algo Fight
-
-> Competitive coding platform
-
-* Real-time interaction
-* Gamified learning
-* Elo-based system
+- Deterministic, **whitelisted execution**
+- Local AI brainstorming (Ollama / Mistral)
+- Built to keep me focused: **control → finishability → shipping**
 
 </td>
 
 <td width="33%">
 
-### 🛡️ Guardian AI
+### 🧠 AetherOS
 
-> Secure AI-driven environment
+> Architectural intelligence + system modeling lab
 
-* Hackathon-built system
-* Monitoring + integrity focus
-* Privacy-aware design
+- Model + infer + simulate software systems
+- Governance rules + failure injection
+- Azure OpenAI advisor + GitHub repo analyzer
+
+</td>
+
+<td width="33%">
+
+### 🛠️ GearGuard
+
+> Maintenance tracker (hackathon build)
+
+- Production-ready asset + maintenance request tracking
+- React + TS + Node + Mongo stack
+- Kanban + calendar + smart workflow
 
 </td>
 </tr>
@@ -78,7 +86,7 @@ I don’t just write code — I design **systems that behave predictably, scale 
 
 ---
 
-## 🧰 Deep Dive: PDTK
+## 🧰 Deep Dive: PDTK (my favorite kind of tool)
 
 > *“A finished, boring tool beats a brilliant unfinished one.”*
 
@@ -86,28 +94,23 @@ PDTK is a **CLI system designed to reduce developer cognitive load** through **d
 
 ### 🎯 Core Principles
 
-| Principle                      | Meaning                                  |
-| ------------------------------ | ---------------------------------------- |
-| Human-in-control               | Executes only developer-approved actions |
-| Deterministic execution        | No AI-generated shell commands           |
-| Finishability over flexibility | Fixed features per version               |
-| CLI-first                      | No UI, no background services            |
+| Principle | Meaning |
+|---|---|
+| Human-in-control | Executes only developer-approved actions |
+| Deterministic execution | No AI-generated shell commands |
+| Finishability over flexibility | Fixed features per version |
+| CLI-first | No UI, no background services |
 
----
+### ⚙️ What makes it different
 
-### ⚙️ What Makes It Different
+- 🔒 **Whitelisted execution only** — zero arbitrary commands
+- 🧠 **Local AI brainstorming** (Mistral via Ollama)
+- ⚡ **No cloud dependency** (for core workflows)
+- 🧩 Structured output (options, reports, session persistence)
 
-* 🔒 **Whitelisted execution only** — zero arbitrary commands
-* 🧠 **Local AI brainstorming (Mistral via Ollama)**
-* ⚡ **No cloud dependency, no latency overhead**
-* 🧩 **Structured thinking environment, not chatbot noise**
-* 🚫 **Anti-overthinking system built-in**
+### 💻 Example usage
 
----
-
-### 💻 Example Usage
-
-```bash id="r9k2x1"
+```bash
 # Activate PDTK
 pdtk
 
@@ -123,49 +126,32 @@ pdtk brainstorm load <id>
 
 ---
 
-### 🧠 Brainstorm System
+## 🧭 How I think
 
-A **3-layer thinking pipeline**:
-
-```txt id="c82lq9"
-Slash Command → Intent Detection → Structured AI Response
-```
-
-Key capabilities:
-
-* Generates **2 solution paths** (prevents tunnel vision)
-* Tracks decisions with **session persistence**
-* Produces **structured reports**
-* Limits overthinking with **controlled expansion**
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,git,github" />
-</p>
-
-<p align="center">
-  <i>JavaScript • TypeScript • Node.js • React • Express • MongoDB</i>
-</p>
-
----
-
-## 🧭 How I Think
-
-```txt id="q7m1zp"
+```txt
 Problem → Constraints → System → Execution → Feedback → Refine
 ```
 
 ---
 
-## 🌱 Currently Evolving
+## 🛠️ Tech stack I use (and actually ship with)
 
-* Backend architecture & logging systems
-* Deterministic system design
-* AI behavior & control systems
-* Real-time interaction systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,python,git,github" />
+</p>
+
+<p align="center">
+  <i>JavaScript • TypeScript • Node.js • React • Express • MongoDB • Python</i>
+</p>
+
+---
+
+## 📌 Repo highlights
+
+- **PDTK** — CLI-first dev system to reduce cognitive load
+- **AetherOS** — architectural modeling + governed reasoning lab
+- **AI-Dev** — structured AI/Data Science learning repository (math + EDA playbooks)
+- **Backend_Journey** — notes and experiments while leveling up backend fundamentals
 
 ---
 
@@ -182,24 +168,7 @@ Problem → Constraints → System → Execution → Feedback → Refine
 
 ---
 
-## 🧪 Experimental Zone
-
-* 🎮 Interactive learning systems
-* 🤖 AI behavior modeling
-* 🧠 Developer productivity systems
-* ⚡ Real-time feedback environments
-
----
-
-## 🎯 Vision
-
-* Build **AI systems that are controlled, explainable, and trustworthy**
-* Create tools that **reduce mental overhead for developers**
-* Become a developer who **designs systems, not just interfaces**
-
----
-
-## 🧩 Fun Element
+## 🧩 Fun element
 
 <p align="center">
   <i>There’s a stickman somewhere here… waiting to guide you 👀</i>
@@ -207,13 +176,9 @@ Problem → Constraints → System → Execution → Feedback → Refine
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s connect
 
 <p align="center">
   <a href="YOUR_LINKEDIN">LinkedIn</a> •
   <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
-
----
-
-<p align="cent
