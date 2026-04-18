@@ -138,10 +138,10 @@ E --> F[Refinement]
 ## 🔗 CONNECT
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/arin-gupta-2b94b032a/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:aringupta2244@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
